@@ -1,0 +1,8 @@
+.pic {
+  height: 200px;
+  margin-right: 16px;
+}
+
+.o-auto {
+  overflow-x: auto;
+}
