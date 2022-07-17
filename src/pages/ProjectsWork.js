@@ -6,7 +6,7 @@ import NotasPic from "../images/noteTaker.png";
 
 const ProjectsWork = () => {
     return (
-        <div id="Projects_and_Work" className="container">
+        <div id="Projects_and_Work" className="container pt-3 mt-5">
         <h2 className="mt-4">Projects and Work</h2>
         <div className="row">
           <div className="col-md-6 mt-3">
