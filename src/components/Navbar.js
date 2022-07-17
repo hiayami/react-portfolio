@@ -1,5 +1,14 @@
 import React from "react";
 
+setInterval(() => {
+  const date = new Date()
+  document.querySelector('#time').innerText = date.toLocaleString('en-US', {
+      timeZone: "America/Los_Angeles",
+      hour: "numeric",
+      minute: "2-digit"
+  })
+}, 1000) 
+
 const Navbar = (props) => {
   return (
     <div className="fixed-top">
