@@ -36,7 +36,7 @@ function App() {
         <AboutMe />
       )}
       <footer className="mt-4">
-        <p className="text-center">Updated June 2022</p>
+        <p className="text-center">Updated July 2022</p>
       </footer>
     </React.Fragment>
   );
