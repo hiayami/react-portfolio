@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9df853c3.css",
+    "main.js": "/react-portfolio/static/js/main.9b82a089.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/profilepic.jpeg": "/react-portfolio/static/media/profilepic.1fe389a7778092ae76e8.jpeg",
+    "static/media/CarAuction.png": "/react-portfolio/static/media/CarAuction.3bbc340ed19712aba95f.png",
+    "static/media/StarParty.png": "/react-portfolio/static/media/StarParty.02ed8ee2fc7f9594b529.png",
+    "static/media/Ayami_Higashi_Resume.pdf": "/react-portfolio/static/media/Ayami_Higashi_Resume.47a116aa427d21da4d25.pdf",
+    "static/media/techBlog.png": "/react-portfolio/static/media/techBlog.be96a7840d35b6cbc2de.png",
+    "static/media/noteTaker.png": "/react-portfolio/static/media/noteTaker.095aec9e9a170f707349.png",
+    "static/media/w-95-sans-serif.woff": "/react-portfolio/static/media/w-95-sans-serif.bbf19169756eb315b3d4.woff",
+    "static/media/w-95-sans-serif.woff2": "/react-portfolio/static/media/w-95-sans-serif.583c45e970d69c2ab44b.woff2",
+    "index.html": "/react-portfolio/index.html",
+    "main.9df853c3.css.map": "/react-portfolio/static/css/main.9df853c3.css.map",
+    "main.9b82a089.js.map": "/react-portfolio/static/js/main.9b82a089.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df853c3.css",
+    "static/js/main.9b82a089.js"
+  ]
+}
