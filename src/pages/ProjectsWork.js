@@ -3,6 +3,8 @@ import ShootingStarPic from "../images/StarParty.png";
 import GreenCarPic from "../images/CarAuction.png";
 import CloudsPic from "../images/techBlog.png";
 import NotasPic from "../images/noteTaker.png";
+import textEditorPic from "../images/textEditor.png";
+import weatherDashPic from "../images/weatherDash.png";
 import ProjectCard from "../components/ProjectCard"
 
 const ProjectsWork = () => {
@@ -51,6 +53,29 @@ const ProjectsWork = () => {
                 description="An application that can be used to create, save or delete notes. Uses an Express.js back end and saves and retrieves note data from a JSON file."
                 siteHref="https://protected-fortress-07258.herokuapp.com/"
                 githubHref="https://github.com/hiayami/note-taker.git"
+            />
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col-md-6 mt-3">
+          <ProjectCard
+                title="Text Editor"
+                imgAlt="text editor"
+                imgSrc={textEditorPic}
+                description="A text editor that runs in the browser and meets all PWA criteria. Methods implemented to starter code for getting and storing data to an IndexedDB database."
+                siteHref="https://text-eddy.herokuapp.com/"
+                githubHref="https://github.com/hiayami/text-editor"
+            />
+          </div>
+          <div className="col-md-6 mt-3">
+          <ProjectCard
+                title="Weather Dashboard"
+                imgAlt="weather dashboard"
+                imgSrc={weatherDashPic}
+                description="An application that uses third-party APIs to gather weather information from geographical search locations."
+                siteHref="https://hiayami.github.io/weather-dashboard/"
+                githubHref="https://github.com/hiayami/weather-dashboard"
             />
           </div>
         </div>
