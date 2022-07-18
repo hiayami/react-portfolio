@@ -15,6 +15,9 @@ This portfolio was created using React and hosts collaborative projects and othe
 ## Usage
 Click on the deployed link:
 [React Portfolio](https://hiayami.github.io/react-portfolio/)
+
+![react-portfolio](https://user-images.githubusercontent.com/98536530/179430537-92b30d12-171c-4959-aa73-c8eee5841280.gif)
+
 ## License
 Read more about MIT License here: [MIT License](https://opensource.org/licenses/MIT)
 ## How to Contribute
